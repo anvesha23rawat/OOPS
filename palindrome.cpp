@@ -1,3 +1,4 @@
+//Check the string is palindrome or not .
 #include<iostream>
 using namespace std;
 int main(){
